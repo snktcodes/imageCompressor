@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "name": "imageCompressor",
+  "author": "snktcodes",
+  "dependencies": {
+    "imagemin": "...",
+    "imagemin-mozjpeg": "...",
+    "imagemin-pngquant": "..."
+  }
+}
